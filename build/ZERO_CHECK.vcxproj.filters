@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Artemio\Desktop\Boreal\build\CMakeFiles\46305488a21251c575f16e2a5d3d36eb\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{14A449C9-91B9-31E7-A070-C98F60CCDF70}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

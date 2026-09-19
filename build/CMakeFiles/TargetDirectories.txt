@@ -1,0 +1,3 @@
+C:/Users/Artemio/Desktop/Boreal/build/CMakeFiles/Boreal.dir
+C:/Users/Artemio/Desktop/Boreal/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Artemio/Desktop/Boreal/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,10 @@
+^C:\USERS\ARTEMIO\DESKTOP\BOREAL\BUILD\CMAKEFILES\46305488A21251C575F16E2A5D3D36EB\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Artemio/Desktop/Boreal -BC:/Users/Artemio/Desktop/Boreal/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Artemio/Desktop/Boreal/build/Boreal.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
