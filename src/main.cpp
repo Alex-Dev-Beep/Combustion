@@ -2,8 +2,10 @@
 
 #include <iostream>
 
+Engine engine;
+
 int main() {
-    Engine engine;
+
 
     std::cout << "Initializing Engine..." << std::endl;
 
