@@ -1,27 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\Artemio\Desktop\Boreal\src\main.cpp">
+    <ClCompile Include="C:\Users\sacra\Documents\Combustion\Combustion\src\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\Artemio\Desktop\Boreal\src\engine.cpp">
+    <ClCompile Include="C:\Users\sacra\Documents\Combustion\Combustion\src\engine.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\Artemio\Desktop\Boreal\src\engine.hpp">
+    <ClInclude Include="C:\Users\sacra\Documents\Combustion\Combustion\src\engine.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\Artemio\Desktop\Boreal\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\sacra\Documents\Combustion\Combustion\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Header Files">
-      <UniqueIdentifier>{8900B932-76A1-3458-ADF0-F26F0A5FB1D8}</UniqueIdentifier>
+      <UniqueIdentifier>{955E4908-17AB-389C-8EEE-91675825B022}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{A8881560-FBDA-38A0-8AB2-BAA460AB510F}</UniqueIdentifier>
+      <UniqueIdentifier>{F09734FF-BF2A-39AE-ADA8-36A060904096}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
